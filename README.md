@@ -1,4 +1,4 @@
-# Uppgift: Splitta notan
+# Instruktioner för Övning: Splitta notan
 
 Splitta notan räknar ut hur mycket varje vän ska betala på exempelvis en restaurang när notan kommer. Användaren matar in summan, antal vänner och sedan dricks (**som skrivs i decimalform d.v.s 10% blir 0.10**).
 
