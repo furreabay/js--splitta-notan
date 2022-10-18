@@ -4,8 +4,8 @@ Splitta notan räknar ut hur mycket varje vän ska betala på exempelvis en rest
 
 **Viktiga kunskaper:**
 
-* Du hämtar värdet från ett inputfält med document.getElementById("id-för-elementet").value;
-* För att omvandla ett värde från inputfältet från text (string) till integer (heltal) eller float (decimaltal) använder du parseInt() eller parseFloat()
+* Du hämtar värdet från ett inputfält med document.getElementById("id-för-elementet").value eller använder querySelector();
+* Du måste omvandla värde från inputfältet från text (string) till ett nummer (Number) 
 * För att dölja/visa element använder du classList.toggle("namn på class att toggla") 
 
 Styla formuläret för mobil efter egna preferenser!
