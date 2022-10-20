@@ -1,1 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+.hide {
+    display: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    max-width: 80%;
+}
+
+
+#errorMessage {
+    color: red;
+}
